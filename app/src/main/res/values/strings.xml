@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OpenWeatherMap</string>
+    <string name="consultar_tiempo">CONSULTAR TIEMPO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="temperatura">Temperatura:</string>
+    <string name="temp_m_nima">Temp mínima:</string>
+    <string name="temp_m_xima">Temp. máxima:</string>
+    <string name="presi_n">Presión:</string>
+    <string name="humedad">Humedad:</string>
+    <string name="c">- Cº</string>
+    <string name="city">City</string>
+    <string name="txthumidity">- %</string>
+    <string name="hpa">- hPa</string>
+    <string name="todo">TODO</string>
+</resources>
